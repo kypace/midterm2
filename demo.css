@@ -1,0 +1,30 @@
+#menu {
+	position:fixed;
+	top:-65px;
+	left:0px;
+	padding:5px;
+	text-align:center;
+}
+
+#downImg {
+	position:absolute;
+	right:0px;
+	bottom:-25px;
+	height:25px;	
+}
+
+#demo {
+	position:absolute;
+	width:70vw;
+	height:70vh;
+	left:0px;
+	right:0px;
+	top:0px;
+	bottom:0px;
+	margin:auto;
+	text-align:center;
+}
+
+#demo img {
+	height:23%;
+}
